@@ -6,7 +6,7 @@ repositories {
 }
 
 dependencies {
-    testImplementation'org.apache.commons:commons-csv:1.8'
+    implementation 'org.apache.commons:commons-csv:1.8'
 }
 
 mainClassName = 'csci2020u.lab02.SimpleTest'
