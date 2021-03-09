@@ -43,7 +43,7 @@ public class lab06 extends Application {
         Scene scene = new Scene(root, 1300, 850);
 
         // create a title and a scene
-        primaryStage.setTitle("Graphics - Hello World");
+        primaryStage.setTitle("Graphics - Bar and pie charts");
         primaryStage.setScene(scene);
         primaryStage.show();
 
