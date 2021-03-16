@@ -1,0 +1,20 @@
+[
+ {
+   "Province": "Quebec",
+   "Region": " Capitale-Nationale",
+   "City": " Quebec City",
+   "COVID-19 Cases": 594
+ },
+ {
+   "Province": "British Columbia",
+   "Region": " Vancouver Island/Coast",
+   "City": " Victoria City",
+   "COVID-19 Cases": 648
+ },
+ {
+   "Province": "Alberta",
+   "Region": " Calgary",
+   "City": " Airdrie",
+   "COVID-19 Cases": 4920
+ }
+]

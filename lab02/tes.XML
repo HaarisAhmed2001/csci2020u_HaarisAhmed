@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <row>
+        <Province>Quebec</Province>
+        <Region> Capitale-Nationale</Region>
+        <City> Quebec City</City>
+        <COVID-19 Cases> 594</COVID-19 Cases>
+</row>
+<row>
+<Province>British Columbia</Province>
+<Region> Vancouver Island/Coast</Region>
+<City> Victoria City</City>
+<COVID-19 Cases> 648</COVID-19 Cases>
+</row>
+<row>
+<Province>Alberta</Province>
+<Region> Calgary</Region>
+<City> Airdrie</City>
+<COVID-19 Cases> 4920</COVID-19 Cases>
+</row>
+</root>
+
